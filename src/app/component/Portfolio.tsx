@@ -20,7 +20,7 @@ const projects = [
     image: "/icons/a.png",
   },
   {
-    title: "Music Academy Project",
+    title: "Student Management System",
     description: "Streamlining student data for efficient academic management.",
     technologies: ["NEXT.js", "TypeScript", "Tailwind"],
     githubLink: "https://github.com/Aribhassan/Cli_Typescript_Projects/tree/main/07_Student%20Management%20System",

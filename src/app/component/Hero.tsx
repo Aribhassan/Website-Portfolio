@@ -18,7 +18,7 @@ function Hero() {
       <div className="absolute top-0 left-0 w-full h-full bg-black/50 z-10"></div>
 
       {/* Hero Content */}
-      <div className="relative bottom-8 z-20 text-center">
+      <div className="relative bottom-16 z-20 text-center">
         <h1 className="text-3xl sm:text-4xl md:text-4xl lg:text-4xl font-thin">Hello, I am</h1>
         <h2 className="text-5xl sm:text-6xl md:text-6xl lg:text-6xl font-extrabold mt-2">Syed Arib Hassan</h2>
         <p className="text-lg mt-4">

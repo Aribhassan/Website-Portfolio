@@ -8,12 +8,12 @@ function About() {
           <h2 className="text-5xl font-extrabold mb-6">
             About <span className="text-orange-500">Me</span>
           </h2>
-          <p className="text-lg text-gray-400 leading-relaxed mb-4">
+          <p className="text-md text-gray-400 leading-relaxed mb-4">
             Hello! Im a dedicated and professional developer with expertise in modern web
             technologies. My passion lies in building user-friendly and visually stunning solutions
             that deliver a seamless experience.
           </p>
-          <p className="text-lg text-gray-400 leading-relaxed mb-6">
+          <p className="text-md text-gray-400 leading-relaxed mb-6">
             I specialize in creating robust, scalable applications tailored to meet your unique
             needs. Lets collaborate and bring your vision to reality with innovative ideas and
             precision.
@@ -32,7 +32,7 @@ function About() {
             <img
               src="/icons/image.png" // Ensure the correct image path
               alt="About Me"
-              className=" lg:w-96 object-cover rounded-full shadow-2xl bg-cyan-500 shadow-orange-500/50 border-4 border-orange-500"
+              className="w-56 lg:w-96 object-cover rounded-full shadow-2xl bg-orange-500 shadow-orange-500/50 border-4 border-orange-500"
             />
           </div>
         </div>
