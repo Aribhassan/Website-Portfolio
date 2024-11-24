@@ -31,11 +31,9 @@ function About() {
         {/* About Image */}
         <div className="md:w-1/2 flex justify-center">
           <div className="relative">
-            <Image
+            <img
               src="/icons/image.png" // Ensure the correct image path
               alt="About Me"
-              height={400}
-              width={400}
               className=" lg:w-96 object-cover rounded-full shadow-2xl bg-cyan-500 shadow-orange-500/50 border-4 border-orange-500"
             />
           </div>
