@@ -1,6 +1,4 @@
 "use client";
-import Image from "next/image"
-
 function About() {
   return (
     <section id="About" className="bg-gray-900 text-white py-16">
