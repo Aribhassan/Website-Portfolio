@@ -48,7 +48,7 @@ function About() {
           <p className="text-lg text-gray-400 leading-relaxed mb-6">
             Beyond technical proficiency, I value clear communication and
             collaboration, ensuring that every project is aligned with your
-            goals and vision. Whether you're launching a new product, enhancing
+            goals and vision. Whether you are launching a new product, enhancing
             an existing platform, or exploring groundbreaking ideas, Im here
             to bring your concepts to life with innovative thinking and
             precision.
