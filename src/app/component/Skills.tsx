@@ -46,7 +46,7 @@ export default function Skills() {
   return (
     <section id="Skills" className="bg-black py-10 px-5">
       <div className="text-center">
-        <h2 className="text-5xl font-extrabold text-center mb-12">
+        <h2 className="text-5xl font-extrabold text-center mb-12 text-white">
           My <span className="text-orange-500">Skills</span>
         </h2>
         <p className="text-white mt-2">

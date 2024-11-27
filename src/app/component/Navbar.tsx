@@ -22,7 +22,7 @@ import { useState } from "react";
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8 text-lg font-medium">
           <li>
-            <a href="/#About" className="hover:text-orange-500">
+            <a href="/About"  className="hover:text-orange-500">
               About Me
             </a>
           </li>
