@@ -88,7 +88,7 @@ import { useState } from "react";
         {isOpen && (
           <ul className="absolute top-16 left-0 w-full bg-black text-white flex flex-col items-center space-y-4 py-4 md:hidden">
             <li>
-              <a href="#About" className="hover:text-orange-500" onClick={toggleMenu}>
+              <a href="/About" className="hover:text-orange-500" onClick={toggleMenu}>
                 About Me
               </a>
             </li>
